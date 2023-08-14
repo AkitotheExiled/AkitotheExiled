@@ -1,5 +1,12 @@
 ### Hi there 👋
+#### My name is Michael.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AkitotheExiled)](https://git.io/streak-stats)
+
+- 🔭 I’m currently working on Appointment Booking App
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: Discord: TRexDelivery
+- ⚡ Fun fact: I love cats!
 <!--
 **AkitotheExiled/AkitotheExiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
